@@ -2,3 +2,11 @@ streamlit
 plotly
 pandas
 numpy
+streamlit
+plotly
+pandas
+numpy
+openpyxl
+xlrd
+matplotlib
+seaborn
